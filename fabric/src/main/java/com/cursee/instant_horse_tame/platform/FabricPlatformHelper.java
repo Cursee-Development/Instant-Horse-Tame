@@ -1,6 +1,6 @@
-package com.cursee.example.platform;
+package com.cursee.instant_horse_tame.platform;
 
-import com.cursee.example.platform.services.IPlatformHelper;
+import com.cursee.instant_horse_tame.platform.services.IPlatformHelper;
 import net.fabricmc.loader.api.FabricLoader;
 
 public class FabricPlatformHelper implements IPlatformHelper {

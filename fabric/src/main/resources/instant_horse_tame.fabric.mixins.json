@@ -1,17 +1,18 @@
 {
     "required": true,
     "minVersion": "0.8",
-    "package": "com.cursee.example.mixin",
+    "package": "com.cursee.instant_horse_tame.mixin",
     "refmap": "${mod_id}.refmap.json",
     "compatibilityLevel": "JAVA_17",
     "mixins": [
+        "FabricHorseMixin"
     ],
     "client": [
-        "MixinTitleScreen"
     ],
     "server": [
     ],
     "injectors": {
-        "defaultRequire": 1
+      "defaultRequire": 1
     }
-}
+  }
+  

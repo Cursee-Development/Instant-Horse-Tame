@@ -1,4 +1,4 @@
-package com.cursee.example.platform.services;
+package com.cursee.instant_horse_tame.platform.services;
 
 public interface IPlatformHelper {
 

@@ -1,7 +1,7 @@
-package com.cursee.example.platform;
+package com.cursee.instant_horse_tame.platform;
 
-import com.cursee.example.Constants;
-import com.cursee.example.platform.services.IPlatformHelper;
+import com.cursee.instant_horse_tame.Constants;
+import com.cursee.instant_horse_tame.platform.services.IPlatformHelper;
 
 import java.util.ServiceLoader;
 
